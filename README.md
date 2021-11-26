@@ -1,6 +1,8 @@
 ### run
 
-> `python3 main.py`
+```bash=
+$ python3 main.py`
+```
 
 ### input data
 
