@@ -1,7 +1,7 @@
 ### run
 
 ```bash=
-$ python3 main.py`
+$ python3 main.py
 ```
 
 ### input data
